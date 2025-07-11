@@ -134,7 +134,7 @@
     },
     "searchServiceSkuName": {
       "type": "string",
-      "defaultValue": "standard"
+      "defaultValue": "free"
     },
     "storageServiceSku": {
       "type": "object",
