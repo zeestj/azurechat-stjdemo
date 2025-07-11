@@ -79,7 +79,7 @@ param dalleApiVersion string = '2023-12-01-preview'
 
 param formRecognizerSkuName string = 'S0'
 param searchServiceIndexName string = 'azure-chat'
-param searchServiceSkuName string = 'standard'
+param searchServiceSkuName string = 'free'
 
 // TODO: define good default Sku and settings for storage account
 param storageServiceSku object = { name: 'Standard_LRS' }
